@@ -27,7 +27,7 @@ while True:
     a.pop(0)
     a.append(lines[a_index])
     b.pop(0)
-    b.append(lines[b_index]
+    b.append(lines[b_index])
 
     a_index += 1
     b_index += 1
